@@ -1,0 +1,30 @@
+h1{
+    color: brown;
+    font-size: 22px;
+    background-color: lightcyan;
+    text-decoration: underline;
+    text-align: center;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+
+}
+
+p{
+    text-align: left;
+    color: darkslategrey;
+    line-height: 22px;
+    letter-spacing: 2px;
+    columns: 3;
+    column-gap: 44px;
+}
+
+ul{
+    /* border-style: solid;
+    border-color: blanchedalmond;
+    border-width: 4px; */
+    border: 2px solid salmon;
+}
+
+li{
+    list-style: square;
+    text-shadow: 2px 4px sandybrown;
+}
